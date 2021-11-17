@@ -1,0 +1,502 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.1256563,
+                    -26.7292488
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "10am - 6pm",
+                "description": "Cnr Production and Tandem Avenue Warana, QLD 4575",
+                "name": "Audiofix",
+                "phone": "07 54379790",
+                "email": "audiofixsales@gmail.com",
+                "image": "audiofix-store-logo-1544317273-1.png",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [153.1009057,
+                    -27.5300208
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "10am - 6pm",
+                "description": "5/17 Morrison Close, Mansfield Brisbane QLD 4122",
+                "name": "Brisbane Hi Fi",
+                "phone": "07 3219 2545",
+                "email": "info@brisbanehifi.com.au",
+                "image": "brisbane-hifi.png",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.3603181,
+                    -27.9361398
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "10am - 6pm",
+                "description": "Arundel, Gold Coast. By Appointment",
+                "name": "GC HiFi",
+                "phone": "+0419 448 452",
+                "email": "terryo@gc-hifi.com.au",
+                "image": "gc-hifi-png-file.png",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.3822008,
+                    -27.9791896
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Factory 10/185 Currumburra Road Ashmore QLD 4214",
+                "name": "Lenehan Audio",
+                "phone": "0418 765 726",
+                "email": "mike@lenehanaudio.com.au",
+                "image": "LABanner.png",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0304606,
+                    -27.4464942
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "1/141 Campbell St, Bowen Hills QLD 4006",
+                "name": "Trimira Audio & Integration",
+                "phone": "07 3854 0406",
+                "email": "info@trimira.com.au",
+                "image": "trimira-audio.png",
+                "storeid": "05"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1533493,
+                    -33.8885316
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Unit 6/509-529 Parramatta Road Leichhardt NSW 2040",
+                "name": "Audio Connection",
+                "phone": "02 9561 0788",
+                "email": " ",
+                "image": "AC-Logo_450x-1.png",
+                "storeid": "06"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   151.7490809,
+                    -32.9242433
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Suite 4, 74-84 Tudor Street Hamilton NSW 2303",
+                "name": "Audio Junction",
+                "phone": "02 496 21490",
+                "email": "info@audiojunction.com.au",
+                "image": "LABanner.png",
+                "storeid": "07"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1946304,
+                    -33.9313417
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "1195 Botany Road, Mascot Sydney NSW 2020",
+                "name": "Audio Solutions",
+                "phone": "02 9317 3330",
+                "email": "info@audiosolutions.net.au",
+                "image": "Audio-Solutions1-1.png",
+                "storeid": "08"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.0326302,
+                    -33.6960879
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Unit 8, 286-288 New Line Road Dural NSW 2158",
+                "name": "In Style Home Theatre & Hi Fi",
+                "phone": "02 9712 7757",
+                "email": "info@instylehifi.com.au",
+                "image": "INSTYLE_LOGOweblogo_2_440x.png",
+                "storeid": "09"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.1671295,
+                    -33.8148493
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "64 Burns Bay Rd Lane Cove NSW 2066",
+                "name": "Len Wallis Audio",
+                "phone": "02 9427 6755",
+                "email": "sales@lenwallisaudio.com.au",
+                "image": "lenwallis@2x.png",
+                "storeid": "10"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.2785082,
+                    -28.8086931
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "105 Keen Street Lismore NSW 2480",
+                "name": "Living Entertainment North Coast",
+                "phone": "02 66226594",
+                "email": "info@lenc.com.au",
+                "image": "LENC_Logo_White_2_450x-black.png",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3548,
+                    -33.4389203
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Shop 1, 41-45 Victoria Street East Gosford NSW 2250",
+                "name": "Mcleans",
+                "phone": "1300 995 448",
+                "email": "sales@mcleans.info",
+                "image": "220-x-auto-fit-mcleanslogo.png",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.3024108,
+                    -33.6789097
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Shop 1, 1 Mona Vale Road Mona Vale NSW 2130",
+                "name": "Sydney Hi-Fi Mona Vale",
+                "phone": "02 8088 3088",
+                "email": "info@sydneyhifimonavale.com.au",
+                "image": "sydneyhifi.png",
+                "storeid": "13"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    151.16347,
+                    -33.76864
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Killara NSW 2071 By Appointment",
+                "name": "Zensati Australia",
+                "phone": "041 300 7440",
+                "email": "contact-us@zensatiaustralia.com",
+                "image": " zensati-1.png",
+                "storeid": "14"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.108,
+                    -35.342
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Garran ACT 2605",
+                "name": "Audio Apartmento",
+                "phone": "0498 127 097",
+                "email": "allan@audioapartmento.com.au",
+                "image": "audio-apartmento.png",
+                "storeid": "15"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   144.9776409,
+                    -37.7814378
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "763 Nicholson Street North Carlton VIC 3054",
+                "name": "Audio Influence",
+                "phone": "0414 794 414",
+                "email": "asales@audioinfluence.com.au",
+                "image": "audio-influence.png",
+                "storeid": "16"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.2149167,
+                    -37.82813
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "10 Argent Place Ringwood VIC 3134",
+                "name": "Audio Trends",
+                "phone": "03 9874 8233",
+                "email": "shop@audiotrends.com.au",
+                "image": "audio-trends.png",
+                "storeid": "17"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9667582,
+                    -37.8032034
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "164/172 Lygon Street Carlton VIC 3053",
+                "name": "Carlton Audio Visual",
+                "phone": "03 9639 2737",
+                "email": "cavmail@carltonaudiovisual.com.au",
+                "image": "CAV-David-logo-web.png",
+                "storeid": "18"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.9836868,
+                    -37.8570485
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Suite 2.02/22 St Kilda Road, St Kilda VIC 3182",
+                "name": "HeyNow Hi-Fi",
+                "phone": "03 9525 0022",
+                "email": "hello@heynowhifi.com.au",
+                "image": "heynow.png",
+                "storeid": "19"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0411445,
+                    -37.9116159
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "224 McKinnon Road McKinnon VIC 3204",
+                "name": "Sound Gallery",
+                "phone": "03 9578 8658",
+                "email": "info@soundgallery.com.au",
+                "image": "sound-gallery.png",
+                "storeid": "20"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.0567932,
+                    -37.9630649
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Level 1, 1277 Nepean Highway, Cheltenham VIC 3192",
+                "name": "The Audio Experts",
+                "phone": "03 9545 5152",
+                "email": "info@theaudioexperts.com.au",
+                "image": "TAE-Logo.png",
+                "storeid": "21"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.8105833,
+                    -31.9063736
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "454 Scarborough Beach Road, Osborne Park, WA 6017",
+                "name": "Douglas HiFi",
+                "phone": "08 9322 3466",
+                "email": "sales@douglashifi.com.au",
+                "image": "Douglas-hifi-logo-web.jpg",
+                "storeid": "22"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   115.8148044,
+                    -32.0687612
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Kardinya WA 6163",
+                "name": "Simply Hi Fi & Home Theatre",
+                "phone": "08 9337 2041",
+                "email": "sales@simplyhifi.com.au",
+                "image": "simplyhifi1.png",
+                "storeid": "23"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   115.8017554,
+                    -31.9796708
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "102 Stirling Highway Nedlands WA 6009",
+                "name": "Surrounds",
+                "phone": "008 9389 6900",
+                "email": "sales@surrounds.com.au",
+                "image": "surrounds-automating-tech.png",
+                "storeid": "24"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   116.0123673,
+                    -31.8964389
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "retailer",
+                "hours": "8am - 9:30pm",
+                "description": "Cnr Clayton & Lloyd St Midland WA 6056",
+                "name": "West Coast Hi-Fi Midland",
+                "phone": "08 9374 0388",
+                "email": "midland@westcoast-hifi.com.au",
+                "image": "westcoast.png",
+                "storeid": "25"
+            }
+        }
+    ]
+}
