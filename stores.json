@@ -362,26 +362,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    144.9836868,
-                    -37.8570485
-                ]
-            },
-            "type": "Feature",
-            "properties": {
-                "category": "retailer",
-                "hours": "8am - 9:30pm",
-                "description": "Suite 2.02/22 St Kilda Road, St Kilda VIC 3182",
-                "name": "HeyNow Hi-Fi",
-                "phone": "03 9525 0022",
-                "email": "hello@heynowhifi.com.au",
-                "image": "heynow.png",
-                "storeid": "19"
-            }
-        },
-        {
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     145.0411445,
                     -37.9116159
                 ]
